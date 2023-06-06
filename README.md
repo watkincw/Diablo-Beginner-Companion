@@ -10,4 +10,4 @@ New to Diablo 4? New to Diablo in general? Diablo Beginner Companion aims to wal
 
 06/05/2023 - watkincw
 
-* Successfully deployed v0.0.0 - (<https://watkincw.github.io/Diablo-Beginner-Companion/>)
+* Successfully deployed v0.0.0!!! - (<https://watkincw.github.io/Diablo-Beginner-Companion/>)
