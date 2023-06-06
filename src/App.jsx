@@ -3,7 +3,7 @@ import './App.css'
 export default function App() {
   return (
     <>
-        DIABLO BEGINNER COMPANION!!! (Coming Soon!)
+        DIABLO BEGINNER COMPANION (Coming Soon...)
     </>
   )
 }
