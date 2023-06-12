@@ -2,6 +2,7 @@
 
 ## 06/08/2023 - watkincw
 
+* After careful consideration, untimately decided on Material UI to help with designing the look and feel of website - <https://www.youtube.com/watch?v=8Fvn4as79OA>
 * Installed Material UI - <https://mui.com/material-ui/getting-started/overview/>
 
 ## 06/05/2023 - watkincw
