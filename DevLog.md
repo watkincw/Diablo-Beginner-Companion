@@ -5,6 +5,7 @@
 * Created Deployment version incrementation system - <https://richhewlett.com/2020/07/11/auto-increment-build-number-in-a-javascript-app/>
 * Changed Website tite
 * Added Google Web Fonts CDN - <https://mui.com/material-ui/getting-started/installation/#google-web-fonts>
+* Found Diablo icons - <https://www.iconarchive.com/show/mega-games-pack-22-icons-by-3xhumed/Diablo-new-1-icon.html>
 
 ## 06/08/2023 - watkincw
 
