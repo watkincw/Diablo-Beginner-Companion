@@ -1,9 +1,11 @@
-import './App.css'
+import Navbar from "./components/NavBar.jsx";
+import "./App.css";
 
 export default function App() {
-  return (
-    <>
-        DIABLO BEGINNER COMPANION (Coming Soon...)
-    </>
-  )
+    return (
+        <div>
+            <Navbar />
+            DIABLO BEGINNER COMPANION (Coming Soon...)
+        </div>
+    );
 }
